@@ -1,0 +1,1 @@
+Full implementation of the SLAM methodology using a C# UI (Not included here) as data visualizer.
