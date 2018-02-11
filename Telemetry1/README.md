@@ -1,0 +1,1 @@
+Experiments with the development of a telemetry archtechture over serial interface on a local machine.
