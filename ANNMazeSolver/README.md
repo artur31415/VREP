@@ -1,0 +1,1 @@
+Implementation of a 2D pre-trained ANN controled maze solver mobile robot 
